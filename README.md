@@ -20,7 +20,7 @@ Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 # ``🗂 Herramientas``
 Estos son algunas herramientas que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
 
-![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord) 
+![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord) ![My Skill](https://skillicons.dev/icons?i=blender) ![My Skill]([https://skillicons.dev/icons?i=blender](https://maxonassets.imgix.net/images/Products/Cinema-4D/C4D-Iso-logo.png?fm=webp&auto=format,compress&w=1920&h=1932&ar=16:9&fit=clip&crop=faces&q=80)) 
  
 
 
