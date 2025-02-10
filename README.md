@@ -1,7 +1,7 @@
 
 ---
 # ``🌎 Hola Mundo``
-
+<img align='right' src="https://ibb.co/Zw1FQrY" width="70">
 
 Soy **00001discord**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Junior Developer.``
 
@@ -17,10 +17,10 @@ Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 
 
 
-# ``🗂 Lenguajes``
-Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
+# ``🗂 Herramientas``
+Estos son algunas herramientas que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
 
-![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css)
+![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=intellij) 
  
 
 
