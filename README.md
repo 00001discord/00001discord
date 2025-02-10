@@ -1,7 +1,7 @@
 
 ---
 # ``🌎 Hola Mundo``
-<img align='right' src="https://i.ibb.co/xc8Bnbf/upscalemedia-transformed.png" width="70">
+<img align='right' src="https://i.ibb.co/xc8Bnbf/upscalemedia-transformed.png" width="60">
 
 Soy **00001discord**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Junior Developer.``
 
