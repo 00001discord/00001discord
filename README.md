@@ -12,7 +12,7 @@ Soy **00001discord**, un pibe que le gusta la programación y aprender cosas nue
 # ``🗂 Lenguajes``
 Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 
-![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css)
+![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=java) 
  
 
 
