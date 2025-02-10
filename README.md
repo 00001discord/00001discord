@@ -20,7 +20,7 @@ Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 # ``🗂 Herramientas``
 Estos son algunas herramientas que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
 
-![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) 
+![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord) 
  
 
 
@@ -33,4 +33,4 @@ Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer
 
 ---
 
-* [🌐 Sitio Web](https://revaydev.vercel.app/) para mas info...
+* [🌐 Sitio Web](https://00001discord.vercel.app/) para mas info...
