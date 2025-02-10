@@ -18,7 +18,7 @@ Estos son algunos de los lenguajes que conozco hasta el dia de hoy.
 
 
 # ``🗂 Herramientas``
-Estos son algunas herramientas que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.
+Estos son algunas herramientas que uso cada día, o los que he usado y sé usar lo avanzado/basico.
 
 ![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord) ![My Skill](https://skillicons.dev/icons?i=blender)
  
