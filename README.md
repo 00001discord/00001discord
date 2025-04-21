@@ -1,22 +1,21 @@
-
 ---
-# 💫 About Me:
+# ``💫 About Me``:
 <br>---<br># ``🌎 Hola Mundo``<br><img align='right' src="https://iili.io/2bEwtRa.png" width="70"><br><br>Soy **00001discord**, un pibe que le gusta la programación y aprender cosas nuevas, que ahora sabe un poco de codigo y por eso es ``📚 Junior Developer.``<br><br>* Desarrollador web.<br>* Desarrollador de bots de discord.<br>* Diseñador grafico.<br><br># ``🗂 Lenguajes``<br>Estos son algunos de los lenguajes que conozco hasta el dia de hoy.<br><br>![My Skill](https://skillicons.dev/icons?i=py) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=java) <br> <br><br><br><br># ``🗂 Herramientas``<br>Estos son algunas herramientas que uso cada día, o los que he usado y sé usar lo avanzado/basico.<br><br>![My Skill](https://skillicons.dev/icons?i=photoshop) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=discord) ![My Skill](https://skillicons.dev/icons?i=blender)<br> <br><br><br><br><br># ``📣 Contactos``<br>Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer. Puedo colaborar en cualquier cosa que pueda y si es de trabajo mucho mejor.<br><br>[![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/767527252682211369) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://x.com/00001discord) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/00001DISCORD) [![My Skill](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/valenn.shilton_/) <br><br>---<br><br>* [🌐 Sitio Web](https://00001discord.vercel.app/) para mas info...<br>
 
-## 🌐 Socials:
+## ``🌐 Socials``:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/767527252682211369) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valenn.shilton_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/00001discordd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shiltonvalentin@gmail.com) 
 
-# 💻 Tech Stack:
+# ``💻 Tech Stack``:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
+# ``📊 GitHub Stats``:
 ![](https://github-readme-stats.vercel.app/api?username=00001discord&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=00001discord&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00001discord&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## ``🏆 GitHub Trophies``
 ![](https://github-profile-trophy.vercel.app/?username=00001discord&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### ``🔝 Top Contributed Repo``
 ![](https://github-contributor-stats.vercel.app/api?username=00001discord&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
