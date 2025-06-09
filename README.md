@@ -38,8 +38,5 @@ Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00001discord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=00001discord&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 * [🌐 Sitio Web](https://00001discord.vercel.app/) para mas info...
