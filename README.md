@@ -32,7 +32,7 @@ Puedes contactarme por algunos de estos medios o ver algunas cosas que sé hacer
 [![My Skill](https://skillicons.dev/icons?i=discord)](https://discord.com/users/767527252682211369) [![My Skill](https://skillicons.dev/icons?i=twitter)](https://x.com/00001discord) [![My Skill](https://skillicons.dev/icons?i=github)](https://github.com/00001DISCORD) [![My Skill](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/valenn.shilton_/) 
 
 # ``📊 GitHub Stats``:
-![](https://github-readme-stats.vercel.app/api?username=00001discord&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=00001discord&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=00001discord&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00001discord&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
